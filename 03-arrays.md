@@ -70,3 +70,5 @@ Arrays are generally of two types, one is fixed size and the other is of varying
 The fixed size array is called as the static array and is always initialized with a fixed size value and does not allow tranversion or insertion/deletion of elements beyond the fixed size.
 
 The varying size array is called as the dynamic arrays and can grow as much as the input of the array grows. They do not have a fixed size or limit. This is the case of the Python list which can be operated as long as the elements exist.
+
+[Previous : Big O Notation](./02-big-o.md) | [Next : Linked List](./04-linked-list.md)

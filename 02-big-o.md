@@ -108,3 +108,5 @@ k = log<sub>2</sub>n
 Therefore we get log<sub>2</sub>n iterations for a complete binary search operation.
 
 Therefore the space complexity of the n(th) function is :<pre style='font-family:sans-serif; letter-spacing: 1px'>O(log<sub>2</sub>n)</pre>
+
+[Previous : What is Data Structure](./01-what-is-ds.md) | [Next : Arrays](./03-arrays.md)

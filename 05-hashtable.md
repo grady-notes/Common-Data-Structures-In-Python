@@ -37,3 +37,5 @@ def foo() :
 if __name__ == '__main__' :
     foo()
 ```
+
+[Previous : Linked List](./04-linked-list.md) | [Next : Stack](./06-stack.md)

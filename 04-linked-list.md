@@ -113,3 +113,5 @@ def foo() :
 if __name__ == '__main__' :
     foo()
 ```
+
+[Previous : Arrays](./03-arrays.md) | [Next : Hashtables](./05-hashtable.md)

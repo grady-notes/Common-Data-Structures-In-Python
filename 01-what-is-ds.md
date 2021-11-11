@@ -12,3 +12,5 @@ Some most commonly used data structures are:
 Data structures are the containers for storing data in a specific memory layout.
 
 Using the right data structure for the right problem plays a key role in becoming a good software programmer.
+
+[Next : Big-O Notation](./02-big-o.md)

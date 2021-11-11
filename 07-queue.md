@@ -43,3 +43,5 @@ def foo() :
 if __name__ == '__main__' :
     foo()
 ```
+
+[Previous : Stack](./06-stack.md)

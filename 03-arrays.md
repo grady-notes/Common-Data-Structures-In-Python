@@ -8,10 +8,6 @@ Arrays are the most common data structure in any programming. They are used to s
 arr = [100,200,300]
 ```
 
-<style>
-tr, th {
-    border: 1px solid #ccc;
-}
 </style>
 <table>
   <tr>

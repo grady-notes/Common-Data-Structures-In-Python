@@ -26,7 +26,7 @@ def foo() :
         def add(self, key, value) :
             hash = self.get_hash(key)
             self.arr[hash] = value
-    # 100 is the maximum limit of the hashtable
+    # 30 is the maximum style of the hastable
     h = Hashtable(30)
     arr = ['january 1', 'february 2', 'march 3', 'april 4']
     for item in arr :
